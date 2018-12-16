@@ -2,9 +2,9 @@
 	"id": 12,
 	"creator": "minakokojima",
 	"parent": 217,
-	"creator_fee": 20,
+	"creator_fee": 50,
 	"ref_fee": 50,
 	"k": 350,
-	"price": 1000,
+	"price": 2000,
 	"st": 0
 }
